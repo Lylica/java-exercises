@@ -1,4 +1,3 @@
-
 # Exercícios JAVA
 Esse repositório tem o intuito de guardar todos os exercícios feitos por mim durante meus estudos do bootcamp da [DIO](https://www.dio.me/)! Além de me ajudar a revisar os conceitos básicos de integração entre GIT e GITHUB, sendo atualizado cada vez que eu termino os exercícios do módulo.
 
@@ -7,10 +6,10 @@ Esse repositório tem o intuito de guardar todos os exercícios feitos por mim d
 
 | Explicação | Código |
 | ---------- | ------ |
-| Código que recebe um nome e ano de nascimento da pessoa e depois retorna a sua idade. | [Resolução](https://github.com/Lylica/java-exercises/tree/main/exercicios/exercicioIdade) |
-| Código que recebe o valor do lado do quadrado e em seguida retorna o valor da área. | [Resolução](https://github.com/Lylica/java-exercises/tree/main/exercicios/exercicioQuadrado) |
-| Código que recebe o valor da base e da altura do retângulo e em seguida retorna o valor da área. | [Resolução](https://github.com/Lylica/java-exercises/tree/main/exercicios/exercicioRetangulo) |
-| Código que recebe nomes e idades de duas pessoas e retorna a diferença de idade entre elas. | [Resolução](https://github.com/Lylica/java-exercises/tree/main/exercicios/exercicioRetangulo) |
+| Código que recebe um nome e ano de nascimento da pessoa e depois retorna a sua idade. | [Resolução](https://github.com/Lylica/java-exercises/blob/main/exercicios/exercicioIdade/src/App.java) |
+| Código que recebe o valor do lado do quadrado e em seguida retorna o valor da área. | [Resolução](https://github.com/Lylica/java-exercises/tree/main/exercicios/exercicioQuadrado/src/App.java) |
+| Código que recebe o valor da base e da altura do retângulo e em seguida retorna o valor da área. | [Resolução](https://github.com/Lylica/java-exercises/tree/main/exercicios/exercicioRetangulo/src/App.java) |
+| Código que recebe nomes e idades de duas pessoas e retorna a diferença de idade entre elas. | [Resolução](https://github.com/Lylica/java-exercises/blob/main/exercicios/exercicioNomes/src/App.java) |
  
 ## Meus perfis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylla-alves-206629251/)
