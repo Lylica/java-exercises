@@ -17,7 +17,7 @@ Esse repositório tem o intuito de guardar todos os exercícios feitos por mim d
 
 | Título | Explicação | Código |
 | ------ | ---------- | ------ |
-| Exercícicio Tabuada| Código que recebe um número e mostra a sua tabuada. | [Resolução](hhttps://github.com/Lylica/java-exercises/blob/main/exercicios/exercicioTabuada/src/exercicioTabuada.java) |
+| Exercícicio Tabuada| Código que recebe um número e mostra a sua tabuada. | [Resolução](https://github.com/Lylica/java-exercises/blob/main/exercicios/exercicioTabuada/src/exercicioTabuada.java) |
 | Exercícicio IMC| Código que recebe o peso e a altura da pessoa e calcula seu IMC. | [Resolução](https://github.com/Lylica/java-exercises/blob/main/exercicios/exercicioIMC/src/exercicioIMC.java) |
 | Exercícicio Intervalo| Código que recebe 2 números e mostra os números pares ou ímpares nesse intervalo. | [Resolução](https://github.com/Lylica/java-exercises/blob/main/exercicios/exercicioIntervalo/src/exercicioIntervalo.java) |
 | Exercícicio Divisão| Código que recebe 2 números e roda até que o resto da divisão do primeiro pelo segundo ser 0. | [Resolução](https://github.com/Lylica/java-exercises/blob/main/exercicios/exercicioDivisao/src/exercicioDivisao.java) |
