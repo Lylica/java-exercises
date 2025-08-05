@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
-public class App {
+public class exercicioNomes {
     public static void main(String[] args) {
-        var scanner = new Scanner(System.in);
+    
         //nome e idade 1
+        var scanner = new Scanner(System.in);
         System.out.printf("Insira o primeiro nome: ");
         var name1 = scanner.next();
         System.out.printf("Insira a idade de %s: ", name1);
