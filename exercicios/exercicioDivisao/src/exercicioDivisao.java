@@ -13,6 +13,7 @@ public class exercicioDivisao {
         do {
             System.out.print("\nInsira outro número (sendo ele >= o primeiro): ");
             num2 = scanner.nextInt();
+            if (num2 > num1)
             System.out.println(num2 + " não é dívisivel por inteiro por " + num1);
 
         } while(num2 % num1 != 0);
