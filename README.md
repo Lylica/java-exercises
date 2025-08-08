@@ -27,7 +27,7 @@ Esse repositório tem o intuito de guardar todos os exercícios feitos por mim d
 | ------ | ---------- | ------ |
 | Exercício Conta Bancária | Programa que simula uma conta bancária, com transações e regras de cheque especial. | [Resolução](https://github.com/Lylica/java-exercises/tree/main/exercicios/exercicioContaBancaria/src) |
 
-Esse exerćício me tomou um pouco mais de tempo do que os anteriores, visto que consistia em mexer com classes e métodos e foi meu primiero contato com esse conteúdo. Levei 3 dias pra terminar, mas acredito que aprendi bastante ao resolve-lo. Pretendo realizar o outro exercício mais pra frente depois que finalizar o curso pra revisar o conteúdo.
+Esse exercício me tomou um pouco mais de tempo do que os anteriores, visto que consistia em mexer com classes e métodos e foi meu primiero contato com esse conteúdo. Levei 3 dias pra terminar, mas acredito que aprendi bastante ao resolve-lo. Pretendo realizar o outro exercício mais pra frente depois que finalizar o curso pra revisar o conteúdo.
  
 ## Meus perfis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylla-alves-206629251/)
