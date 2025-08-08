@@ -21,6 +21,13 @@ Esse repositório tem o intuito de guardar todos os exercícios feitos por mim d
 | Exercícicio IMC| Código que recebe o peso e a altura da pessoa e calcula seu IMC. | [Resolução](https://github.com/Lylica/java-exercises/blob/main/exercicios/exercicioIMC/src/exercicioIMC.java) |
 | Exercícicio Intervalo| Código que recebe 2 números e mostra os números pares ou ímpares nesse intervalo. | [Resolução](https://github.com/Lylica/java-exercises/blob/main/exercicios/exercicioIntervalo/src/exercicioIntervalo.java) |
 | Exercícicio Divisão| Código que recebe 2 números e roda até que o resto da divisão do primeiro pelo segundo ser 0. | [Resolução](https://github.com/Lylica/java-exercises/blob/main/exercicios/exercicioDivisao/src/exercicioDivisao.java) |
+
+### Exercício do módulo "Java e a Arte da Abstração com classes e Encapsulamento"
+| Título | Explicação | Código |
+| ------ | ---------- | ------ |
+| Exercício Conta Bancária | Programa que simula uma conta bancária, com transações e regras de cheque especial. | [Resolução](https://github.com/Lylica/java-exercises/tree/main/exercicios/exercicioContaBancaria/src) |
+
+Esse exerćício me tomou um pouco mais de tempo do que os anteriores, visto que consistia em mexer com classes e métodos e foi meu primiero contato com esse conteúdo. Levei 3 dias pra terminar, mas acredito que aprendi bastante ao resolve-lo. Pretendo realizar o outro exercício mais pra frente depois que finalizar o curso pra revisar o conteúdo.
  
 ## Meus perfis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylla-alves-206629251/)
